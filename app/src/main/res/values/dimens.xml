@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size_default">24sp</dimen>
+    <dimen name="title_size_l">26sp</dimen>
+    <dimen name="title_size_xl">28sp</dimen>
+    <dimen name="title_size_xxl">30sp</dimen>
+
+    <dimen name="button_padding_left_right_default">20dp</dimen>
+</resources>

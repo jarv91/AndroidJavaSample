@@ -1,0 +1,7 @@
+<resources>
+    <!-- string naming: <WHERE>_<DESCRIPTION> -->
+    <string name="app_name">JARV Java Sample</string>
+
+    <string name="welcome_title">Welcome to this Sample App</string>
+    <string name="welcome_main_action">Continue</string>
+</resources>
